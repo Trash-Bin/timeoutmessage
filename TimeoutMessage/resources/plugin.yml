@@ -1,0 +1,4 @@
+name: TimeoutMessageBukkit
+main: org.inventivetalent.timeoutmessage.bukkit.TimeoutMessage
+author: inventivetalent
+version: ${project.version}

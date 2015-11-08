@@ -1,0 +1,4 @@
+name: TimeoutMessageBungee
+main: org.inventivetalent.timeoutmessage.bungee.TimeoutMessage
+author: inventivetalent
+version: ${project.version}

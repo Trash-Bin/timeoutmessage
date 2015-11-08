@@ -1,0 +1,7 @@
+#The plugin determines timeouts by checking if the ping changes every second
+#If the amount of equal pings exceeds this threshold, the quit will be handled as a timeout
+threshold: 20
+#Message broadcasted when a player times out (leave empty if it should be disabled)
+message: "&e%player% timed out"
+#If the plugin should disable the default ('... left the game') message when a player times out (Only for Bukkit)
+disableQuitMessage: true
